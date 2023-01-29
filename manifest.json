@@ -1,6 +1,6 @@
 {
-    "name": "hotel_management",
-    "short_name": "hotel_management",
+    "name": "residency",
+    "short_name": "residency",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
