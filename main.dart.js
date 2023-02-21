@@ -77575,7 +77575,7 @@ $.anD=A.y(t.N,t.y)
 $.aqS=null
 $.ahx=null
 $.mg=A.bl("prefs")
-$.l5="https://kanyadan-backend-server.vercel.app//api/v1/users"
+$.l5="https://kanyadan-backend-server.vercel.app/api/v1/users"
 $.akR=null})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"aHN","cp",()=>A.aDC(A.ae(A.anN(self.window),"vendor"),B.b.aaJ(A.awW(A.anN(self.window)))))
 s($,"aIk","ec",()=>A.aDE())
